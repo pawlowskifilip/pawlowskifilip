@@ -26,7 +26,7 @@ While working on the StockX Automation project, I gained experience in leadershi
 
 ## Contact with me 📥
 - 📧 Email [pawlows.filip@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pawlows.filip@gmail.com)
-- ⛓️ LinkedIn: [in/pawlowsfilip](www.linkedin.com/in/pawlowsfilip)
+- ⛓️ LinkedIn: [in/pawlowsfilip](https://www.linkedin.com/in/pawlowsfilip)
 - 🛜 Web Resume: [pawlowskifilip.com](https://www.pawlowskifilip.com/)
 
 <!--
