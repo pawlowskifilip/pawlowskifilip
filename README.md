@@ -1,4 +1,4 @@
-# 👋Hi, I'm Filip Pawłowski!
+# 👋Hi, I'm Filip!
 I'm a software engineer at Nokia and a freelance developer passionate about automation and simplifying life for others.
 
 ## About me ✌️
