@@ -5,7 +5,7 @@ I'm a software engineer at Nokia and a freelance developer passionate about auto
 I hold a degree in Electronic and Computer Engineering from Wrocław University of Science and Technology. At Nokia, I focus on automation, primarily using Python. In my free time, I explore and learn new technologies. My current interests include Go, C#, and front-end development with React.
 
 ## Technical skills 🛠️
-- **Languages**: Python, Swift, C# (in progress), Go (in progress)
+- **Languages**: Python, C# (in progress), Go (in progress)
 - **Frameworks & Libraries**: Robot Framework, Selenium, Pandas, NumPy, Tensorflow, OpenCV, Tkinter
 - **Tools & Platforms**: GitHub, GitLab, Docker, Azure
 - **Concepts**: I worked with AI - I've created my Bachelor Thesis project using TensorFlow, NumPy and TensorFlow. I am profficient with Robot Framework and Selenium.
